@@ -6,7 +6,7 @@ By clicking on the random button,you will Generate all tree values again
 	         blue _80%_
            green _11%_
 					 
-	RandomClick/pic1.jpg
+	<img src="RandomClick/pic1.jpg" />
 	
 	Mouse Hover for the Red ring:
 	   0.5s:rotate 90 degree and increase size by 5%
